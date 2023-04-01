@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">AcademiaApp</string>
+    <string name="app_name">Fitfolio</string>
     <string name="login_button_login">Entrar</string>
     <string name="login_editText_username_hint">Usuário</string>
     <string name="login_editText_password_hint">Senha</string>

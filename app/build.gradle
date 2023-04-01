@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'br.com.arthurjf.cursoandroid.academiaapp'
+    namespace 'br.com.arthurjf.fitfolio'
     compileSdk 33
 
     defaultConfig {
-        applicationId "br.com.arthurjf.cursoandroid.academiaapp"
+        applicationId "br.com.arthurjf.fitfolio"
         minSdk 28
         targetSdk 33
         versionCode 1

@@ -1,6 +1,6 @@
 # 🛠️ Em Desenvolvimento! 🛠️
 
-# AcademiaApp
+# Fitfolio
 
 Aplicativo Android Nativo voltado para Academia. Com ele, os professores podem adicionar alunos e criar treinos personalizados para eles.
 

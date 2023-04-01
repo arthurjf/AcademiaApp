@@ -1,11 +1,11 @@
-package br.com.arthurjf.cursoandroid.academiaapp.view
+package br.com.arthurjf.fitfolio.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
 import android.widget.EditText
 import android.widget.Toast
-import br.com.arthurjf.cursoandroid.academiaapp.R
+import br.com.arthurjf.fitfolio.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
