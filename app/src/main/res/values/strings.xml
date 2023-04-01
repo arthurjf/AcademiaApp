@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AcademiaApp</string>
+    <string name="login_button_login">Entrar</string>
+</resources>
