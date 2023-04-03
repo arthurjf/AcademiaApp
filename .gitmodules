@@ -1,0 +1,3 @@
+[submodule "app/src/main/res/Fitfolio-Confidential"]
+	path = app/src/main/res/Fitfolio-Confidential
+	url = https://github.com/arthurjf/Fitfolio-Confidential.git
