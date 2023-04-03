@@ -32,4 +32,7 @@ Esta seção mostra os diagramas gerados para a construção da aplicação.
 - O usuário só pode acessar os treinos cadastrados pelo professor correspondente
 
 ## Tecnologias Utilizadas
-...
+- [Android Studio](https://developer.android.com/studio)
+- [Kotlin](https://kotlinlang.org/)
+- [Pencil](https://pencil.evolus.vn/)
+- [Firebase](https://firebase.google.com/)
