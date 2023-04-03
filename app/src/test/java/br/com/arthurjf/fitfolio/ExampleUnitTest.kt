@@ -1,4 +1,4 @@
-package br.com.arthurjf.cursoandroid.academiaapp
+package br.com.arthurjf.fitfolio
 
 import org.junit.Test
 
