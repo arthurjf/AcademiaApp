@@ -23,6 +23,8 @@ class MainActivity : AppCompatActivity() {
             }else{
                 Toast.makeText(this, "Usuário ou senha incorreta!", Toast.LENGTH_SHORT).show()
             }
+
+            Toast.makeText(this, R.string.confidential_test, Toast.LENGTH_SHORT).show()
         }
     }
 }
